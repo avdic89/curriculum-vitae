@@ -3,7 +3,7 @@ import EduItems from "./EduItems"
 
 function Edu() {
   return (
-    <div id="about-div">
+    <div id="edu-div">
          <h2>education</h2>
         {EduItems.map((item, index) => {
             return(

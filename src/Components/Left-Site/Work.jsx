@@ -3,8 +3,8 @@ import WorkItems from "./WorkItems"
 
 function Work() {
   return (
-    <div id="about-div">
-        <h2>work expirience</h2>
+    <div id="work-div">
+        <h2>work experience</h2>
         {WorkItems.map((item, index) => {
           return(
             <div>

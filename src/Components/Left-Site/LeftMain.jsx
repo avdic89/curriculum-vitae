@@ -3,6 +3,8 @@ import Navbar from "./Navbar"
 import About from "./About"
 import Work from "./Work"
 import Edu from "./Edu"
+import Hobbies from "./Hobbies"
+import Skills from "./Skills"
 
 function LeftMain() {
   return (
@@ -12,6 +14,8 @@ function LeftMain() {
         <About />
         <Work />
         <Edu />
+        <Skills/>
+        <Hobbies />
       </>
     </div>
   )

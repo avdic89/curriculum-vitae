@@ -19,7 +19,7 @@ const EduItems = [
     },
     {
         date:"09.2005 bis 05.2006",
-        university:"würmtalschule",
+        university:"würmtalschule weil der stadt",
         degree:"realschulabschluss",
         cName:"",
     },
@@ -28,7 +28,7 @@ const EduItems = [
         university:"ghs weil der stadt",
         degree:"hauptschulabschluss",
         cName:"",
-        end:"___________________________________"
+        end:"____________________________________________________________________"
     },
 ]
 

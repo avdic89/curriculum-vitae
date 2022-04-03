@@ -9,13 +9,13 @@ function Navbar() {
         <ul>
             
                     <li className="navbar-main">  
-                        <a className="Navbar-right" href="https://github.com/avdic89"><img id="navbar-img" src={github} alt="github"></img></a>
+                        <a className="Navbar-right" href="https://github.com/avdic89"><img id="navbar-img-left" src={github} alt="github"></img></a>
                     </li>
                     <li className="navbar-main">  
-                        <a className="Navbar-right" href="https://www.linkedin.com/in/elmin-avdic-679415156/"><img id="navbar-img" src={linkedin} alt="linkedin"></img></a>
+                        <a className="Navbar-right" href="https://www.linkedin.com/in/elmin-avdic-679415156/"><img id="navbar-img-left" src={linkedin} alt="linkedin"></img></a>
                     </li>
                     <li className="navbar-main">  
-                        <a className="Navbar-right" href="https://github.com/avdic89"><img id="navbar-img" src={email} alt="e-mail"></img></a>
+                        <a className="Navbar-right" href="https://github.com/avdic89"><img id="navbar-img-left" src={email} alt="e-mail"></img></a>
                     </li>
           
         </ul>

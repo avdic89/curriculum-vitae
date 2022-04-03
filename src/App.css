@@ -28,12 +28,13 @@
 
 .Navbar-right{
     text-decoration: none;
-    border-bottom: 2px solid transparent;
-    border-top: 2px solid transparent;
+    border-bottom: 4px solid transparent;
+    border-top: 4px solid transparent;
     transition: all .3s ease-in;
     justify-content:left;
     color: black;
     font-size: 22px;
+    
    
 
 }
@@ -42,6 +43,7 @@
     border-color: rgb(159, 184, 148);
     color:rgb(159, 184, 148);
     
+    
 }
 
 .Navbar-left{
@@ -49,10 +51,8 @@
     justify-content:left;
     color: black;
     font-size: 22px;
-   
 
 }
-
 
 #image-of-me{
     border-radius: 200px;
@@ -66,7 +66,7 @@
     padding-top: 35%;
 }
 
-#about-div{
+#about-div, #work-div, #edu-div, #skills-div, #hobbies-div{
     padding-top:10%;
     padding-left: 10%;
     font-family: 'Lobster Two', cursive;
@@ -93,18 +93,46 @@ h2{
     font-size:50px;
 }
 
+#img-right{
+    width:7%;
+    height:7%;
+    padding-right: 10px;  
 
-#navbar-img{
-    width:5%;
-    height:5%;
-    border-bottom: 2px solid transparent;
+}
+
+
+#navbar-img-left{
+    width:4%;
+    height:4%;
+    border-bottom: 4px solid transparent;
     transition: all .3s ease-in;
 }
 
-#navbar-img:hover{
+#navbar-img-left:hover{
     border-color: black;
 }
 
 #navbar-div{
     /*position:fixed;*/
+}
+
+
+#hobby-div-left, #about-div-left{
+    float:left;
+    width:50%;
+}
+
+#hobby-div-right, #about-div-right{
+    float:right;
+    width:50%;
+}
+
+#img-right-hobbies {
+    width:7%;
+    height:7%;
+}
+
+#img-right-skills{
+    width:1%;
+    height:1%;
 }

@@ -2,7 +2,7 @@ const NavbarItems = [
     {
         titel:"about",
         cName: "Navbar-right",
-        href: "about",
+        href: "#about-div",
         
         
     },
@@ -10,14 +10,14 @@ const NavbarItems = [
     {
         titel:"work expirience",
         cName: "Navbar-right",
-        href: ".#Work"
+        href: ".#work-div"
         
         
     },
     {
         titel:"education",
         cName: "Navbar-right",
-        href: "education",
+        href: "#edu-div",
        
        
 
@@ -25,13 +25,13 @@ const NavbarItems = [
     {
         titel:"skills",
         cName: "Navbar-right",
-        href: "skills",
+        href: "#skills-div",
        
     },
     {
         titel:"hobbies",
         cName: "Navbar-right",
-        href: "skills",
+        href: "#hobbies-div",
        
     }
 ]
