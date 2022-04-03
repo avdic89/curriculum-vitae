@@ -1,14 +1,17 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import adress from "./adress.png"
 import sex from "./gender.png"
 import birthday from "./birthday-card.png"
 import phone from "./phone-call.png"
 import email from "../Right-Site/email.png"
 import mstatus from "./Icons/wedding-rings.png"
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 function About() {
+  useEffect(()=>{AOS.init({duration: 1500});},[]);
   return (
-    <div id="about-div">
+    <div id="about-div" data-aos="fade-up">
         <h1>Elmin Avdic</h1>
         <h2>developer</h2>
         <div id="about-div-left">

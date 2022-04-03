@@ -1,11 +1,14 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import NavbarItems from "./NavbarItems"
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 
 
 function Navbar() {
+  useEffect(()=>{AOS.init({duration: 1500});},[]);
   return (
-    <div id="navbar-div">
+    <div id="navbar-div" data-aos="fade-down">
         <ul>
         {NavbarItems.map((item, index)=>{
           return(

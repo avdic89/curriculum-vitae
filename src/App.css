@@ -30,7 +30,7 @@
     text-decoration: none;
     border-bottom: 4px solid transparent;
     border-top: 4px solid transparent;
-    transition: all .3s ease-in;
+    transition: all .5s ease-in;
     justify-content:left;
     color: black;
     font-size: 22px;
@@ -136,3 +136,5 @@ h2{
     width:1%;
     height:1%;
 }
+
+

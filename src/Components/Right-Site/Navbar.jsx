@@ -1,11 +1,14 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import github from "./github.png"
 import linkedin from "./linkedin.png"
 import email from "./email.png"
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 function Navbar() {
+  useEffect(()=>{AOS.init({duration: 1500});},[]);
   return (
-    <div>
+    <div data-aos="fade-down">
         <ul>
             
                     <li className="navbar-main">  
