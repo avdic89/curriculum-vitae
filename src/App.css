@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.left-main{
+    width:50%;
+    background-color: rgb(255, 255, 255);
+    float:right;
+}
+
+.right-main{ 
+    width:50%;
+    height:770px;
+    background-color: rgb(159, 184, 148);
+    /*background-image: url('https://i.redd.it/y9ih2d9mmuuz.jpg');*/
+    background-position: center;
+    float:left;
+    position: fixed;
+    border-radius:10px;
+    
+
+}
+.navbar-main{
+    display: inline;
+    position: relative;
+    padding-left: 30px;
+    margin-left:0;
+}
+
+.Navbar-right{
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
+    transition: all .3s ease-in;
+    justify-content:left;
+    color: black;
+    font-size: 22px;
+   
+
+}
+
+.Navbar-right:hover{ 
+    border-color: rgb(159, 184, 148);
+    color:rgb(159, 184, 148);
+    
+}
+
+.Navbar-left{
+    text-decoration: none;
+    justify-content:left;
+    color: black;
+    font-size: 22px;
+   
+
+}
+
+
+#image-of-me{
+    border-radius: 200px;
+    height:30%;
+    width:30%;
+}
+
+#div-image-of-me{
+    justify-content: center;
+    display: flex;
+    padding-top: 35%;
+}
+
+#about-div{
+    padding-top:10%;
+    padding-left: 10%;
+    font-family: 'Lobster Two', cursive;
+}
+
+p{
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+span{
+    font-weight: normal;
+    font-size:14px;
+    
+}
+
+h1{
+    font-size:70px;
+}
+
+h2{
+    font-size:50px;
+}
+
+
+#navbar-img{
+    width:5%;
+    height:5%;
+    border-bottom: 2px solid transparent;
+    transition: all .3s ease-in;
+}
+
+#navbar-img:hover{
+    border-color: black;
+}
+
+#navbar-div{
+    /*position:fixed;*/
+}
