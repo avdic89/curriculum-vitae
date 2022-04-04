@@ -22,7 +22,7 @@ const WorkItems = [
         company: "ikea sindelfingen",
         position: "account manager",
         explination:"direct customer support, placing orders, storing the received orders",
-        end:"____________________________________________________________________"
+        
     }
 ]
 

@@ -11,6 +11,7 @@ import 'aos/dist/aos.css';
 function About() {
   useEffect(()=>{AOS.init({duration: 1500});},[]);
   return (
+    
     <div id="about-div" data-aos="fade-up">
         <h1>Elmin Avdic</h1>
         <h2>junior developer</h2>
@@ -24,8 +25,9 @@ function About() {
             <div><img id="img-right" src={birthday} alt=""></img><p>birthdate <span>13 july 1989</span></p></div>
             <div><img id="img-right" src={mstatus} alt=""></img><p>marital status <span>single</span></p></div>
         </div>
-        ____________________________________________________________________
+        <div id="space"></div>
     </div>
+    
   )
 }
 

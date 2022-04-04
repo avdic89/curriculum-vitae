@@ -28,7 +28,6 @@ const EduItems = [
         university:"ghs weil der stadt",
         degree:"hauptschulabschluss",
         cName:"",
-        end:"____________________________________________________________________"
     },
 ]
 

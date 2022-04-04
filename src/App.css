@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
 
+#space{
+    height: 250px;
+}
+
 .left-main{
     width:50%;
     background-color: rgb(255, 255, 255);
@@ -68,10 +72,11 @@
 }
 
 #about-div, #work-div, #edu-div, #skills-div, #hobbies-div{
-    padding-top:10%;
+    padding-right: 10%;
     padding-left: 10%;
     font-family: 'Lobster Two', cursive;
 }
+
 
 p{
     font-weight: bold;
@@ -93,6 +98,10 @@ h1{
 h2{
     font-size:50px;
 }
+h3{
+    font-size:50px;
+    border-top:3px dotted;
+}
 
 #img-right{
     width:7%;
@@ -113,10 +122,6 @@ h2{
     border-color: black;
 }
 
-#navbar-div{
-    /*position:fixed;*/
-}
-
 
 #hobby-div-left, #about-div-left{
     float:left;
@@ -133,19 +138,12 @@ h2{
     height:7%;
 }
 
-#img-right-skills{
-    width:1%;
-    height:1%;
-}
-
 #copyright{ 
     font-size: 8px;
     text-align: center;
 }
 
-#skills-div{
-    padding-right:10%
-}
+
 
 #index1{
     width:45%;
@@ -157,4 +155,98 @@ h2{
     width:45%;
     float:right;
     
+}
+
+
+@media all and (max-width:548px){
+    .Navbar-right{
+        justify-content:left;
+        color: black;
+        font-size: 24px;
+        
+    }
+    p{
+        font-weight: bold;
+        font-size: 12px;
+        font-family: 'Courier New', Courier, monospace;
+        
+    }
+    
+    span{
+        font-weight: normal;
+        font-size:10px;
+        
+    }
+    
+    h1{
+        font-size:40px;
+    }
+    
+    h2{
+        font-size:20px;
+    }
+    #img-right-hobbies {
+        width:12%;
+        height:12%;
+    }
+    #img-right{
+        width:12%;
+        height:12%;
+        padding-right: 10px;  
+    
+    }
+    #navbar-img-left{
+        width:10%;
+        height:10%;
+    }
+    #image-of-me{
+        border-radius: 200px;
+        height:50%;
+        width:50%;
+    }
+    
+    #div-image-of-me{
+
+        padding: 75% 0 110% 0;
+    
+    }
+    #index1{
+        width:100%;
+        float:none;
+    }
+    
+    #index2 {
+        width:100%;
+        float:none;
+        
+        
+    }
+    .right-main{  
+        height:680px;
+    }
+
+}
+@media all and (min-width:549px) and (max-width:888px){
+    .right-main{  
+        height:680px;
+    }
+    #div-image-of-me{
+        padding: 50% 0 50% 0;
+    }
+    #navbar-img-left{
+        width:8%;
+        height:8%;
+        padding-left: 40px;
+    }
+    #img-right-hobbies {
+        width:12%;
+        height:12%;
+    }
+    #img-right{
+        width:12%;
+        height:12%;
+        padding-right: 10px;  
+    
+    }
+
 }

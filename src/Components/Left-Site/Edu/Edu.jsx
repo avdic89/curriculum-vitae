@@ -7,14 +7,13 @@ function Edu() {
   useEffect(()=>{AOS.init({duration: 1500});},[]);
   return (
     <div id="edu-div" data-aos="fade-up">
-         <h2>education</h2>
+         <h3>education</h3>
         {EduItems.map((item, index) => {
             return(
                 <div>
                     <p className={item.cName} key={index}>{item.date} </p>
                     <p><span>{item.university}</span></p>
                     <p className={item.cName}><span>{item.degree}</span></p>
-                    {item.end}
                 </div>
             )
         })}

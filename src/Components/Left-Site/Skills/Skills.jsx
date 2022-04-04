@@ -16,30 +16,27 @@ function Skills() {
 
   return (
     <div id="skills-div" data-aos="fade-up">
-      <h2>skills</h2>
+      <h3>skills</h3>
         
         <div id="index1">
-          <h3>social skills</h3>
-          <p><SkillBar font-size={"8px"} height={20} skills={socialskills}/></p>
+          <h4>social skills</h4>
+          <p><SkillBar height={20} skills={socialskills}/></p>
         </div>
         
         <div id="index2">
-          <h3>informatics skills</h3>
+          <h4>informatics skills</h4>
           <p><SkillBar height={20} skills={itskills}/></p>
         </div>
       
         
-        <div id="index4">
-          <h3>linguistic proficiency</h3>
+        <div>
+          <h4>linguistic proficiency</h4>
           <p ><SkillBar height={20} skills={languageskills}/></p>
         </div>
-        <div id="index4">
-          <h3>other skills</h3>
+        <div>
+          <h4>other skills</h4>
           <p ><SkillBar height={20} skills={otherskills}/></p>
         </div>
-      
-    
-      ____________________________________________________________________
     </div>
   )
 }

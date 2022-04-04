@@ -7,7 +7,7 @@ function Work() {
   useEffect(()=>{AOS.init({duration: 1500});},[]);
   return (
     <div id="work-div" data-aos="fade-up" >
-        <h2>work experience</h2>
+        <h3>work experience</h3>
         {WorkItems.map((item, index) => {
           return(
             <div>
@@ -15,7 +15,6 @@ function Work() {
             <p><span>{item.company}</span></p>
             <p><span>{item.position}</span></p>
             <p><span>{item.explination}</span></p>
-            {item.end}
             </div>
           )
         })}

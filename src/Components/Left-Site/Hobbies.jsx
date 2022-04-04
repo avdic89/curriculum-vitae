@@ -12,7 +12,7 @@ function Hobbies() {
   useEffect(()=>{AOS.init({duration: 2000});},[]);
   return (
     <div id="hobbies-div" data-aos="fade-up">
-      <h2>hobbies</h2>
+      <h3>hobbies</h3>
       <div id="hobby-div-left">
           <div><img id="img-right-hobbies" src={piano} alt=""></img><p><span>piano</span></p></div>
           <div><img id="img-right-hobbies" src={reading} alt=""></img><p><span>reading</span></p></div>
