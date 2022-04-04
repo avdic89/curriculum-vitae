@@ -13,7 +13,7 @@
 
 .right-main{ 
     width:50%;
-    height:770px;
+    height:100%;
     background-color: rgb(159, 184, 148);
     /*background-image: url('https://i.redd.it/y9ih2d9mmuuz.jpg');*/
     background-position: center;
@@ -158,7 +158,7 @@ h3{
 }
 
 
-@media all and (max-width:548px){
+@media all and (max-width:988px){
     .Navbar-right{
         justify-content:left;
         color: black;
@@ -183,31 +183,33 @@ h3{
     }
     
     h2{
-        font-size:20px;
+        font-size:22px;
+    }
+    h3{
+        font-size:22px;
     }
     #img-right-hobbies {
-        width:12%;
-        height:12%;
+        width:20px;
+        
     }
     #img-right{
-        width:12%;
-        height:12%;
+        width:20px;
         padding-right: 10px;  
     
     }
     #navbar-img-left{
-        width:10%;
-        height:10%;
+        width:30px;
+        padding:auto;
     }
     #image-of-me{
         border-radius: 200px;
-        height:50%;
-        width:50%;
+        height:250px;
+        width:250px;
     }
     
     #div-image-of-me{
 
-        padding: 75% 0 110% 0;
+        padding: 15% 0 0 0;
     
     }
     #index1{
@@ -221,12 +223,30 @@ h3{
         
         
     }
-    .right-main{  
-        height:680px;
+
+    .left-main{
+        width:100%;
+        background-color: rgb(255, 255, 255);
+        float:none;
+        padding-top:500px;
+    }
+    
+    .right-main{ 
+        width:100%;
+        height:300px;
+        background-color: rgb(159, 184, 148);
+        /*background-image: url('https://i.redd.it/y9ih2d9mmuuz.jpg');*/
+        background-position: center;
+        float:none;
+        position: absolute;
+        border-radius:10px;
+    }
+    #navbar-div{
+        opacity: 0;
     }
 
 }
-@media all and (min-width:549px) and (max-width:888px){
+/*@media all and (min-width:549px) and (max-width:888px){
     .right-main{  
         height:680px;
     }
@@ -249,4 +269,4 @@ h3{
     
     }
 
-}
+}*/

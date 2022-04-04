@@ -8,7 +8,7 @@ const NavbarItems = [
     },
     
     {
-        titel:"work expirience",
+        titel:"work",
         cName: "Navbar-right",
         href: ".#work-div"
         
