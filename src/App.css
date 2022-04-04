@@ -63,7 +63,8 @@
 #div-image-of-me{
     justify-content: center;
     display: flex;
-    padding-top: 35%;
+    padding: 35% 0 28% 0;
+
 }
 
 #about-div, #work-div, #edu-div, #skills-div, #hobbies-div{
@@ -137,4 +138,23 @@ h2{
     height:1%;
 }
 
+#copyright{ 
+    font-size: 8px;
+    text-align: center;
+}
 
+#skills-div{
+    padding-right:10%
+}
+
+#index1{
+    width:45%;
+    float:left;
+    margin:0 20px 30px 0
+}
+
+#index2 {
+    width:45%;
+    float:right;
+    
+}

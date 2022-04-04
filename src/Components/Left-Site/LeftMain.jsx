@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from "./Navbar"
+import Navbar from "./Navbar/Navbar"
 import About from "./About"
-import Work from "./Work"
-import Edu from "./Edu"
+import Work from "./Work/Work"
+import Edu from "./Edu/Edu"
 import Hobbies from "./Hobbies"
-import Skills from "./Skills"
+import Skills from "./Skills/Skills"
 
 function LeftMain() {
   return (

@@ -9,6 +9,7 @@ export default function App() {
         <>
             <LeftMain />
             <RightMain/>
+
         </>
     </div>
   )

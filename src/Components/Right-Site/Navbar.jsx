@@ -1,7 +1,7 @@
 import React, {useEffect} from 'react'
-import github from "./github.png"
-import linkedin from "./linkedin.png"
-import email from "./email.png"
+import github from "./Icons/github.png"
+import linkedin from "./Icons/linkedin.png"
+import email from "./Icons/email.png"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
