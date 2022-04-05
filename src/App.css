@@ -166,28 +166,29 @@ h3{
         font-size: 24px;
         
     }
+
     p{
         font-weight: bold;
-        font-size: 12px;
+        font-size: 18px;
         font-family: 'Courier New', Courier, monospace;
         
     }
     
     span{
         font-weight: normal;
-        font-size:10px;
+        font-size:15px;
         
     }
     
     h1{
-        font-size:40px;
+        font-size:50px;
     }
     
     h2{
-        font-size:22px;
+        font-size:32px;
     }
     h3{
-        font-size:22px;
+        font-size:32px;
     }
     #img-right-hobbies {
         width:20px;
