@@ -3,7 +3,7 @@ const socialskills =[
         type: "empathic", 
         level: 90,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -14,7 +14,7 @@ const socialskills =[
         type: "teamwork", 
         level: 75,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -26,7 +26,7 @@ const socialskills =[
         type: "crativity", 
         level: 55,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -38,7 +38,7 @@ const socialskills =[
         type: "independ.", 
         level: 85,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -50,7 +50,7 @@ const socialskills =[
         type: "lernwill", 
         level: 90,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"

@@ -3,7 +3,7 @@ const itskills =[
         type: "css", 
         level: 70,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(n)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -14,7 +14,7 @@ const itskills =[
         type: "html", 
         level: 75,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -26,7 +26,7 @@ const itskills =[
         type: "javascript", 
         level: 55,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -38,7 +38,7 @@ const itskills =[
         type: "react", 
         level: 55,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -50,7 +50,7 @@ const itskills =[
         type: "node.js", 
         level: 35,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -62,7 +62,7 @@ const itskills =[
         type: "python", 
         level: 75,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"

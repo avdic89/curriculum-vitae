@@ -3,7 +3,7 @@ const otherskills =[
         type: "hrm", 
         level: 60,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -15,7 +15,7 @@ const otherskills =[
         level: 75,
         height:10,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
@@ -27,7 +27,7 @@ const otherskills =[
         type: "accmgmt", 
         level: 75,
         color:{
-            bar:"rgb(159, 184, 148)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"

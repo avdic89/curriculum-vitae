@@ -1,5 +1,11 @@
 const EduItems = [
     {
+        date:"05.2022 - now",
+        university:"42heilbronn",
+        degree:"computer science",
+        cName:"",
+    },
+    {
         date:"10.2019 - now",
         university:"uni hagen",
         degree:"bachelor of science wirtschaftsinformatik",

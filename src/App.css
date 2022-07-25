@@ -14,8 +14,8 @@
 .right-main{ 
     width:50%;
     height:100%;
-    background-color: rgb(159, 184, 148);
-    /*background-image: url('https://i.redd.it/y9ih2d9mmuuz.jpg');*/
+    background-color: rgb(162, 202, 166);
+    /*background-image: url('https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80');*/
     background-position: center;
     float:left;
     position: fixed;
@@ -44,8 +44,8 @@
 }
 
 .Navbar-right:hover{ 
-    border-color: rgb(159, 184, 148);
-    color:rgb(159, 184, 148);
+    border-color: rgb(162, 202, 166);
+    color:rgb(162, 202, 166);
     
     
 }
@@ -53,7 +53,7 @@
 .Navbar-left{
     text-decoration: none;
     justify-content:left;
-    color: black;
+    color: rgb(233, 228, 228);
     font-size: 22px;
 
 }
@@ -166,7 +166,7 @@ h3{
         font-size: 24px;
         
     }
-
+f
     p{
         font-weight: bold;
         font-size: 18px;
@@ -236,7 +236,6 @@ h3{
     .right-main{ 
         width:100%;
         height:300px;
-        background-color: rgb(159, 184, 148);
         /*background-image: url('https://i.redd.it/y9ih2d9mmuuz.jpg');*/
         background-position: center;
         float:none;
