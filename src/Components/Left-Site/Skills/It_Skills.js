@@ -3,7 +3,7 @@ const itskills =[
         type: "css", 
         level: 70,
         color:{
-            bar:"rgb(n)",
+            bar:"rgb(162, 202, 166)",
             title:{
                 text:"black",
                 background:"#fff"
