@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae/static/css/main.2d1d43af.css",
-    "main.js": "/curriculum-vitae/static/js/main.3c40d348.js",
-    "static/media/me.png": "/curriculum-vitae/static/media/me.28d184f6a50c2bd0cab4.png",
-    "static/media/sports.png": "/curriculum-vitae/static/media/sports.b01293696527ddfd26a0.png",
-    "static/media/birthday-card.png": "/curriculum-vitae/static/media/birthday-card.934329085af65c3948a8.png",
-    "static/media/phone-call.png": "/curriculum-vitae/static/media/phone-call.2ddd243efeb36258a44a.png",
-    "static/media/adress.png": "/curriculum-vitae/static/media/adress.8210970acff9062a268b.png",
-    "static/media/book.png": "/curriculum-vitae/static/media/book.8c8483241d4375665302.png",
-    "static/media/github.png": "/curriculum-vitae/static/media/github.44eee0c4a6c25b0d7347.png",
-    "static/media/wedding-rings.png": "/curriculum-vitae/static/media/wedding-rings.f87c4ebeae6acc6dbea8.png",
-    "static/media/chess.png": "/curriculum-vitae/static/media/chess.ad2cacee2aa2103b178f.png",
-    "static/media/gender.png": "/curriculum-vitae/static/media/gender.5ecf9200617701bdc758.png",
-    "static/media/linkedin.png": "/curriculum-vitae/static/media/linkedin.92380c03cc82f139a166.png",
-    "static/media/audiobook.png": "/curriculum-vitae/static/media/audiobook.5fb7a511ccfe47e5baf0.png",
-    "static/media/email.png": "/curriculum-vitae/static/media/email.4f7d3f19a956d3e46b35.png",
-    "static/media/coding.png": "/curriculum-vitae/static/media/coding.04a3a2f0b7324621a8dc.png",
-    "index.html": "/curriculum-vitae/index.html",
-    "main.2d1d43af.css.map": "/curriculum-vitae/static/css/main.2d1d43af.css.map",
-    "main.3c40d348.js.map": "/curriculum-vitae/static/js/main.3c40d348.js.map"
+    "main.css": "/static/css/main.2d1d43af.css",
+    "main.js": "/static/js/main.e930bcb4.js",
+    "static/media/me.png": "/static/media/me.28d184f6a50c2bd0cab4.png",
+    "static/media/sports.png": "/static/media/sports.b01293696527ddfd26a0.png",
+    "static/media/birthday-card.png": "/static/media/birthday-card.934329085af65c3948a8.png",
+    "static/media/phone-call.png": "/static/media/phone-call.2ddd243efeb36258a44a.png",
+    "static/media/adress.png": "/static/media/adress.8210970acff9062a268b.png",
+    "static/media/book.png": "/static/media/book.8c8483241d4375665302.png",
+    "static/media/github.png": "/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/wedding-rings.png": "/static/media/wedding-rings.f87c4ebeae6acc6dbea8.png",
+    "static/media/chess.png": "/static/media/chess.ad2cacee2aa2103b178f.png",
+    "static/media/gender.png": "/static/media/gender.5ecf9200617701bdc758.png",
+    "static/media/linkedin.png": "/static/media/linkedin.92380c03cc82f139a166.png",
+    "static/media/audiobook.png": "/static/media/audiobook.5fb7a511ccfe47e5baf0.png",
+    "static/media/email.png": "/static/media/email.4f7d3f19a956d3e46b35.png",
+    "static/media/coding.png": "/static/media/coding.04a3a2f0b7324621a8dc.png",
+    "index.html": "/index.html",
+    "main.2d1d43af.css.map": "/static/css/main.2d1d43af.css.map",
+    "main.e930bcb4.js.map": "/static/js/main.e930bcb4.js.map"
   },
   "entrypoints": [
     "static/css/main.2d1d43af.css",
-    "static/js/main.3c40d348.js"
+    "static/js/main.e930bcb4.js"
   ]
 }
